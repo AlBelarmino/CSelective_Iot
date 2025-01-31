@@ -1,5 +1,3 @@
-# Laboratory Activity #1: Arduino LED Sequence
-
 ## Objective
 - The goal of this project is to develop a sequential LED control system where LEDs illuminate and turn off in a predetermined order. The system can be adjusted to operate either odd or even-numbered LEDs separately.
 

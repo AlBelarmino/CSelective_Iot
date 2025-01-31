@@ -10,18 +10,18 @@ Each project is organized into its own folder, with a dedicated `README.md` insi
 - A simple LED running light effect using five LEDs connected to Arduino digital pins. The LEDs turn on and off sequentially with a 1-second delay.
 
 ###  **[Led Fade](./Led%20Fade/)**
-A smooth LED brightness transition using PWM (Pulse Width Modulation). LEDs gradually increase in brightness before turning off, creating a fading effect.
+- A smooth LED brightness transition using PWM (Pulse Width Modulation). LEDs gradually increase in brightness before turning off, creating a fading effect.
 
 ###  **[Fire Detection](./Fire%20Detection/)**
-A basic fire detection system using a temperature sensor (NTC thermistor) and a photoresistor. If both temperature and brightness exceed set thresholds, an LED alert is triggered.
+- A basic fire detection system using a temperature sensor (NTC thermistor) and a photoresistor. If both temperature and brightness exceed set thresholds, an LED alert is triggered.
 
 ###  **[Light Sensor Alert](./Light%20Sensor%20Alert/)**
-An ambient light monitoring system using a photoresistor. When brightness surpasses a set limit, an LED alert is activated. The system also allows stopping the blinking effect via serial commands.
+- An ambient light monitoring system using a photoresistor. When brightness surpasses a set limit, an LED alert is activated. The system also allows stopping the blinking effect via serial commands.
 
 ###  **[Led Web Control](./Led%20Web%20Control/)**
-Control an Arduino-connected LED via a FastAPI-based web API. A Python script communicates with the Arduino over serial to toggle the LED using HTTP requests.
+- Control an Arduino-connected LED via a FastAPI-based web API. A Python script communicates with the Arduino over serial to toggle the LED using HTTP requests.
 
 ###  **[Button to API](./Button%20to%20API/)**
-Reads a button press on an Arduino and sends its status (`1` for pressed, `0` for not pressed) to a FastAPI server, which then triggers an API call to control an LED.
+- Reads a button press on an Arduino and sends its status (`1` for pressed, `0` for not pressed) to a FastAPI server, which then triggers an API call to control an LED.
 
 ---

@@ -16,7 +16,7 @@ This system integrates an Arduino and a Python-based FastAPI server to control a
 
 ### 2. Setting Up the FastAPI Server
 - Ensure Python and FastAPI are installed (`pip install fastapi serial`).
-- Run the Python script to start the server (`fastapi dev &lt;name_of_file&gt;.py`).
+- Run the Python script to start the server (`fastapi dev <name_of_file>.py`).
 
 ### 3. Controlling the LED
 - Send a POST request to `http://127.0.0.1:8000/led/on` to turn on the LED.

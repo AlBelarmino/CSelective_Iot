@@ -1,4 +1,4 @@
-# Arduino & FastAPI Projects 🚀
+# Arduino Projects
 
 Welcome to my collection of Arduino projects! This repository contains various activities exploring LED control, sensor integration, and web-based interaction using Python and Arduino.
 

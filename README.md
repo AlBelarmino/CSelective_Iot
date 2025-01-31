@@ -6,7 +6,7 @@ Each project is organized into its own folder, with a dedicated `README.md` insi
 
 ## 📂 **Project List**  
 
-### 🔹 **[Led sequence](./act-1-led-sequence/)**
+### 🔹 **[Led sequence](./Led sequence/)**
 **Description:** A simple LED running light effect using five LEDs connected to Arduino digital pins. The LEDs turn on and off sequentially with a 1-second delay.
 
 ### 🔹 **[act-2-led-fade](./act-2-led-fade/)**

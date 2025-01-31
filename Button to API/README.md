@@ -16,7 +16,6 @@ This system integrates an Arduino, a button, and a Python-based FastAPI server f
 
 ### 2. Setting Up the FastAPI Server
 - Ensure Python and FastAPI are installed (`pip install fastapi serial requests`).
-- Run the Python script to start the server (`uvicorn script_name:app --reload`).
 
 ### 3. Controlling the LED
 - The Arduino reads button input and sends `1` (pressed) or `0` (not pressed) via serial.

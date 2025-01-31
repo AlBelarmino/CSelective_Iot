@@ -25,8 +25,3 @@ Each project is organized into its own folder, with a dedicated `README.md` insi
 **Description:** Reads a button press on an Arduino and sends its status (`1` for pressed, `0` for not pressed) to a FastAPI server, which then triggers an API call to control an LED.
 
 ---
-
-## ⚙️ **Getting Started**
-1. Clone this repository:
-   ```sh
-   git clone https://github.com/yourusername/your-repo-name.git

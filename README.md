@@ -7,7 +7,7 @@ Each project is organized into its own folder, with a dedicated `README.md` insi
 ## 📂 **Project List**  
 
 ### 🔹 [Led Sequence](https://github.com/AlBelarmino/CSelective_Iot/tree/main/Led%20sequence)
-  A simple LED running light effect using five LEDs connected to Arduino digital pins. The LEDs turn on and off sequentially with a 1-second delay.
+  **A simple LED running light effect using five LEDs connected to Arduino digital pins. The LEDs turn on and off sequentially with a 1-second delay.**
 
 ### 🔹 **[Led Fade](./Led%20Fade/)**
 **Description:** A smooth LED brightness transition using PWM (Pulse Width Modulation). LEDs gradually increase in brightness before turning off, creating a fading effect.
